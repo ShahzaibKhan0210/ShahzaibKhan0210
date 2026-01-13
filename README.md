@@ -17,7 +17,7 @@
 
 ## 🚀 How to Connect
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/imshahzaib-khan/)
+- **LinkedIn:** [linkedin.com/in/imshahzaib-khan/](https://linkedin.com/in/imshahzaib-khan/)
 - **Email:** shahzaibkhan0210@gmail.com 
 
 ---
