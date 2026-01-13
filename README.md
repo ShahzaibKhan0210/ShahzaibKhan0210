@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Shahzaib Khan – SQA Automation Engineer
 
-<!--
-**ShahzaibKhan0210/ShahzaibKhan0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m passionate about building **scalable automation frameworks** for web and mobile testing.  
+💼 I specialize in **Selenium, Playwright, Appium, and REST API automation**.
+🌱 I continuously learn modern testing tools, CI/CD pipelines, and DevOps practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Skills
+
+- **Programming & Automation:** Java | JavaScript | TypeScript | Selenium | Playwright | Appium | TestNG | JUnit  
+- **API Automation:** REST Assured | Postman | JSON Schema Validation  
+- **CI/CD & DevOps:** GitHub Actions | Jenkins  
+- **Databases & Tools:** MySQL | SQL Server | Allure | Extent Reports | Git  
+
+---
+
+## 🚀 How to Connect
+
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/imshahzaib-khan/)
+- **Email:** shahzaibkhan0210@gmail.com 
+
+---
+
+## 🎯 Career Goal
+
+I aim to **deliver high-quality automation solutions**, improve testing efficiency, and help companies **release software faster and with confidence**.  
+
+---
+
